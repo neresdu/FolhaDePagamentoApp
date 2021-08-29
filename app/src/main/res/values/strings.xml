@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FolhaDePagamento</string>
+    <string name="cadastrar_funcionario">Cadastrar Funcionario</string>
+    <string name="novo_funcionario">Novo Funcionario</string>
+    <string name="detalhes_funcionario">Detalhes Funcionario</string>
+    <string name="gross_salary">Gross Salary</string>
+    <string name="inss">INSS:</string>
+    <string name="fgts">FGTS</string>
+    <string name="ir">IR</string>
+    <string name="net_salary">Net Salary</string>
+</resources>
