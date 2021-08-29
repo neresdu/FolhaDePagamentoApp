@@ -4,7 +4,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class Employee {
-
     private String EmployeeName;
     private double HoursWorked;
     private double HourValue;
