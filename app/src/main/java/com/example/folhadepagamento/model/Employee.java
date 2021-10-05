@@ -81,7 +81,7 @@ public class Employee {
         HourValue = hourValue;
     }
 
-    public double getTvGrossSalary() {
+    public double getGrossSalary() {
         return GrossSalary;
     }
 

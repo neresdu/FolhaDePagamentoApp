@@ -16,12 +16,11 @@
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
-    <ListView
-        android:id="@+id/lvEmployees"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvEmployees"
         android:layout_width="match_parent"
-        android:layout_height="575dp">
-
-    </ListView>
+        android:layout_height="500dp"
+        android:contextClickable="false" />
 
     <Button
         android:id="@+id/bNovo"

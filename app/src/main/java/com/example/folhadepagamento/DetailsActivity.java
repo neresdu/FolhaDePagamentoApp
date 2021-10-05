@@ -42,7 +42,7 @@ public class DetailsActivity extends AppCompatActivity {
 
         Employee employee = dao.getEmployee(position);
         tvEmployeeName.setText(employee.getEmployeeName());
-        tvGrossSalary.setText("Gross Salary: "+employee.getTvGrossSalary());
+        tvGrossSalary.setText("Gross Salary: "+employee.getGrossSalary());
         tvIR.setText("IR: "+employee.getIR());
         tvINSS.setText("INSS: "+employee.getINSS());
         tvFGTS.setText("FGTS: "+employee.getFGTS());
